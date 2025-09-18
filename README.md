@@ -1,4 +1,4 @@
-\[!\[Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Sistema-respiratorio)
+[!\[Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Sistema-respiratorio)
 
 # Práctica 0: Modelo del sistema respiratorio
 
