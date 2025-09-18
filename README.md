@@ -28,22 +28,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 ## Descripción detallada del sistema
 
-El circuito RLC representa un sistema de segundo orden que modeliza, de manera simplificada, la mecánica pulmonar:
-
-Pao(t) o--- L --- R --- . ---o PA(t)
---Q(t)-->	              |
-                        |
-                        C
-                        |
-                        |
-                       --- P0(t)
-
-El resistor R representa una combinación de la resistencia al flujo de aire Q(t) en las vías respiratorias, el tejido pulmonar y la pared torácica. El inductor L representa la inertancia. Los componentes R y C representan respectivamente las propiedades mecánicas resistivas y de almacenamiento del sistema respiratorio. El objetivo del modelo eléctrico es predecir la respuesta dinámica de la presión alveolar PA(t) a diferentes formas de onda de presión Pao(t) aplicadas en la apertura de las vías respiratorias, es decir,
-
-
-PA(s)              1
------	=	-----------------------
-Pao(s)    C*L s^2 + C*R s + 1
+Un circuito RLC representa un sistema de segundo orden que modeliza, de manera simplificada, la mecánica pulmonar: El resistor R representa una combinación de la resistencia al flujo de aire Q(t) en las vías respiratorias, el tejido pulmonar y la pared torácica. El inductor L representa la inertancia. Los componentes R y C representan respectivamente las propiedades mecánicas resistivas y de almacenamiento del sistema respiratorio. El objetivo del modelo eléctrico es predecir la respuesta dinámica de la presión alveolar PA(t) a diferentes formas de onda de presión Pao(t) aplicadas en la apertura de las vías respiratorias.
 
 
 ## Referencias
